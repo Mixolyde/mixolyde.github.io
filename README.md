@@ -1,5 +1,6 @@
-## Welcome to Mixolyde's github projects pages
+## Welcome to Mixolyde's Github Project Page
 
+### Projects
 * [Blaseball Playoff Status](https://mixolyde.github.io/blaseballstatus)
 
 ## Welcome to GitHub Pages
