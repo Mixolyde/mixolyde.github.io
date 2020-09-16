@@ -1,3 +1,7 @@
+## Welcome to Mixolyde's github projects pages
+
+* [Blaseball Playoff Status (https://mixolyde.github.io/blaseballstatus)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mixolyde/mixolyde.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
