@@ -1,7 +1,10 @@
 ## Welcome to Mixolyde's Github Project Page
 
-### Projects
+### Web Projects
 * [Blaseball Playoff Status](https://mixolyde.github.io/blaseballstatus)
+
+### Twitter Bots
+* [On Tyranny](https://www.twitter.com/BotTyranny)
 
 ## Welcome to GitHub Pages
 
