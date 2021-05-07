@@ -74,12 +74,15 @@ and their chords for reference.
 ### Leonard Cohen/Buckley/Rufus Wainwright
 #### Hallelujah
     Capo 6
+    Verse
     G   Em   G   Em
     G   Em   G   Em
     C   D    G   D
-    G   C    D   Em   C
+    G   C D  Em   C
     D   B7   Em
-    C   Em   C   G D
+    Chorus
+    C   Em   C   G 
+    D
     G   Em   G   Em
     
 ### Passenger
