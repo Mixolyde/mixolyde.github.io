@@ -37,11 +37,33 @@ and their chords for reference.
     A/E
     A   B   C   C
 
+### Leonard Cohen/Buckley/Rufus Wainwright
+#### Hallelujah
+    Capo 6
+    G   Em   G   Em
+    G   Em   G   Em
+    C   D    G   D
+    G   C    D   Em   C
+    D   B7   Em
+    C   Em   C   G D
+    G   Em   G   Em
+    
+
 
 ### Pink Floyd
 #### Wish You Were Here
     C    D/F#   Am/E   G
     D/F# C      Am     G
+  
+### Proclaimers
+#### 500 Miles
+    V/C: E   A   B   E
+    B:   E   A   B   C#m
+         F#m B   E
+
+### Radiohead
+#### Creep
+    G   B   C   Cm
     
 ### Semisonic
 #### Closin' Time
@@ -63,4 +85,8 @@ and their chords for reference.
     A   D
     D   A   E
  
- 
+### Weezer
+#### Say It Ain't Song
+    Standard
+    V/C: C   G   G#   D#
+    B:   B5    B/C#5   E5    F#5   
