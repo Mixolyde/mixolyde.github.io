@@ -22,6 +22,13 @@ and their chords for reference.
     Standard
     A   Bm  D   A
     
+### Barenaked Ladies
+#### If I had a Million Dollars
+    V: A   E   Dsus2  A
+       A   E   Dsus2  E
+    C: Dsus2  E   A  A/G#   F#m   Dsus2
+       E
+       
 ### Ben E. King
 #### Stand By Me
     Capo 2
@@ -60,11 +67,19 @@ and their chords for reference.
 ### Eagles
 #### Hotel California
     Capo 2
-    V:  Am  E7   G   D
-        F   C    Dm  E
-    C:  F   C    E7  Am
-        F   C    Dm  E
+    V:  Am  E7  G   D
+        F   C   Dm  E
+    C:  F   C   E7  Am
+        F   C   Dm  E
             
+### Jason Mraz
+#### I'm Yours
+    Capo 3
+    G   D   Em  C  (Chorus ends on A7 pause)
+    
+    Standard
+    A#  F   Gm  D# (Chorus ends on C7 pause)
+    
 ### Led Zeppelin
 #### Immigrant Song
     F#
@@ -73,6 +88,17 @@ and their chords for reference.
 
 ### Leonard Cohen/Buckley/Rufus Wainwright
 #### Hallelujah
+    Standard
+    Verse
+    C   Am   C   Am
+    C   Am   C   Am
+    F   G    C   G
+    C   F G  Am  F
+    G   E7   Am
+    Chorus
+    F   Am   F   C
+    G   C
+    
     Capo 6
     Verse
     G   Em   G   Em
@@ -82,8 +108,7 @@ and their chords for reference.
     D   B7   Em
     Chorus
     C   Em   C   G 
-    D
-    G   Em   G   Em
+    D   G
     
 ### Passenger
 #### Let Her Go
