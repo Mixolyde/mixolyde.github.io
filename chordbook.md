@@ -27,6 +27,18 @@ and their chords for reference.
     Standard
     A   Bm  D   A
     
+### America
+#### Horse With No Name
+    Easy Way
+    Em      Asus2
+    022000  002200
+    
+    Slightly Harder
+    Em      D6/9
+    022000  xx0200
+    Em9     Dmaj9
+    020002  xx0220
+    
 ### Barenaked Ladies
 #### If I had a Million Dollars
     V: A   E   Dsus2  A
