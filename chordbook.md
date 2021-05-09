@@ -14,6 +14,11 @@ and their chords for reference.
     A   A   E   E
     B   A   E   E (or B)  
     
+    Key of G
+    G   G   G   G
+    C   C   G   G
+    D   C   G   G (or D) 
+    
 ### 4 Non-Blondes
 #### What's Up
     Capo 2
