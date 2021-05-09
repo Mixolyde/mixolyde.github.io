@@ -101,11 +101,11 @@ and their chords for reference.
             
 ### Jason Mraz
 #### I'm Yours
-    Capo 3
-    G   D   Em  C  (Chorus ends on A7 pause)
+    Capo 4
+    G   D   Em   C  (Chorus ends on A7 pause)
     
     Standard
-    A#  F   Gm  D# (Chorus ends on C7 pause)
+    B   F#  G#m  E  (Chorus ends on C#7 pause)
     
 ### John Denver
 #### Country Roads
