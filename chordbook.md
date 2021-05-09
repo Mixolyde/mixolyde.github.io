@@ -76,6 +76,16 @@ and their chords for reference.
         F   C   Dm  E
     C:  F   C   E7  Am
         F   C   Dm  E
+        
+#### Take It Easy
+    Verse
+    G   G   G   D C
+    G   D   C   G
+    Chorus
+    Em  Em  C   G
+    Am  C   Em  Em
+    C   G   C   G
+    Am  C   G   G
             
 ### Jason Mraz
 #### I'm Yours
@@ -85,6 +95,21 @@ and their chords for reference.
     Standard
     A#  F   Gm  D# (Chorus ends on C7 pause)
     
+### John Denver
+#### Country Roads
+    Capo 2
+    Verse
+    G   Em   D    C G
+    G   Em   D    C G
+    Chorus
+    G    D7    Em   C
+    G    D     C    G
+    Bridge
+    Em      D/F#   G    G
+    C       G      D    D
+    Em      F      C    G
+    D       D7    
+
 ### Led Zeppelin
 #### Immigrant Song
     F#
