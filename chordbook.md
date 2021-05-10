@@ -247,6 +247,23 @@ and their chords for reference.
 #### Creep
     G   B   C   Cm
     
+### Sara Bareilles
+#### Brave
+    Capo 3
+    V:  G   G   Em  Em
+        C   D
+        
+    C:  G   Em  C   D
+        G   Em  C   D
+        G   C   Em  D
+        G   C   Em  D
+        
+    B:  Em     G
+        G/B    C
+        G/B    C
+        Em     G
+        Dsus4  D
+    
 ### Semisonic
 #### Closin' Time
     G   D   Am   C
@@ -267,6 +284,25 @@ and their chords for reference.
     A   D
     D   A   E
  
+### Traveling Wilburys
+#### End of the Line
+    e|---7-7-7-7-7-2-2-|---7-7-7-7-7--9-10-|---7-7-7-7-7--9-10-12-14----|
+    B|---8-8-8-8-8-3-3-|---8-8-8-8-8-10-10-|---8-8-8-8-8-10-12-14-15----|
+    G|---7-7-7-7-7-2-2-|---7-7-7-7-7--9-11-|---7-7-7-7-7--9-12-14-14----|
+    D|-0---------------|-0-----------------|-0--------------------------|
+
+    Chorus:
+    D   A   G
+    D   A   D
+    D   A   G
+    D   A   D
+    D   D   G
+    
+    Verse:
+    D   D   G
+    D   D   G
+    D   D   A
+    
 ### Weezer
 #### Island in the Sun
     Em  Am  D   G
