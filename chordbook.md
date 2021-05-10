@@ -56,6 +56,10 @@ and their chords for reference.
     A   A   F#m  F#m
     D   E   A   A
     
+### Black Crowes
+#### She Talks to Angels
+    E   E
+    B   A   E   E
     
 ### Blues Traveller
 #### Hook
@@ -79,7 +83,20 @@ and their chords for reference.
 
 ### Cranberries
 #### Zombie
-    Em  C   G   D/F#        
+    Em  C   G   D/F#   
+
+### Dave Matthews Band
+#### Ants Marching
+    V:  D   G
+    C:  Bm  D  G
+        Bm  D  G
+        Bm  D  G
+        Bm  A    
+    Bridge
+    4  4  4  4
+    0  0  0  0
+    x  x  2  2
+    3  2
 
 ### Eagles
 #### Hotel California
@@ -98,6 +115,36 @@ and their chords for reference.
     Am  C   Em  Em
     C   G   C   G
     Am  C   G   G
+
+### Gin Blossoms
+#### Found Out About You
+    Cadd9  Dsus2  Em7  Dsus2
+    
+    C
+    G   D
+    
+#### Hey Jealousy
+    D5  E5  F#5  E5
+
+    A5  D5  A5   D5
+    F#5 E5  D5
+    
+### Grateful Dead
+#### Friend of the Devil
+    e|-----------------|
+    B|-----------------|
+    G|-0---------------|
+    D|---4-2-0---------|
+    A|---------3-2-0---|
+    E|---------------3-| 4x
+
+    G   C
+    G   C
+    D   Am
+    D   Am   C  D
+    
+    D   C
+    D   Am   C  D
             
 ### Jason Mraz
 #### I'm Yours
