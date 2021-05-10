@@ -63,8 +63,13 @@ and their chords for reference.
     
 ### Blues Traveller
 #### Hook
-    A   E   F#m7 C#7
-    D   A   D    E
+    A   E   F#m7  C#7  D   A   D    E
+    5   7   9/12  9    5
+    5   9   10    9/12 7
+    6   9   9     10   7
+    7   9   11    9    7
+    7   7   9     11   5
+    5   7   9     9    5
 
 #### Run-Around
     G   Cadd9  Am   D
@@ -97,6 +102,14 @@ and their chords for reference.
     0  0  0  0
     x  x  2  2
     3  2
+    
+### David Bowie
+#### Ziggy Stardust
+    I:  G   D   C9  G6/B  Am7/4
+    V:  G   Bm  C   C/B   C   D
+        G   Em  Am  C
+    C:  Am  G   (F  F/E) x3   G
+        D   E
 
 ### Eagles
 #### Hotel California
@@ -201,6 +214,13 @@ and their chords for reference.
     Chorus
     C   Em   C   G 
     D   G
+    
+### Lynard Skynard
+#### Free Bird
+    V:  G    D/F#  Em
+        F    C     D
+    C:  F    C     D
+    B:  G    Bb    C
     
 ### Passenger
 #### Let Her Go
