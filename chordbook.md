@@ -118,6 +118,9 @@ and their chords for reference.
 
 ### Gin Blossoms
 #### Found Out About You
+    G|-------4---2-0---0-----2-4-2-0---|
+    D|---2-2---0-----2---2-0-----------|
+    
     Cadd9  Dsus2  Em7  Dsus2
     
     C
