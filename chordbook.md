@@ -1,7 +1,7 @@
 ## My Guitar Chord Book
 
 A collection of my favorite songs to play on guitar,
-and their chords for reference.
+and their chords for quick reference.
 
 ### 12-Bar Blues
     Key of A
@@ -85,6 +85,31 @@ and their chords for reference.
     V:  Dm7  G7  Dm7  G7
     C:  Dm   Dm  Dm
         F    F   F    G
+        
+### Butch Walker
+#### Here Comes The
+    C:  A    E   Bm   Bm
+        D    A   F#m  E
+        A    E   Bm   D
+        Bm C#m Dm
+    V:  A    E   Bm   D  x4
+        Bm C#m Dm
+    B:  F#m  C#m7  Bm   Bm
+        D    Dm    F#m  C#m7
+        D
+    
+#### Maybe It's Just Me
+    Capo 2
+    V/C:  F   Am  F   Am
+          F   Am  G   G
+    B:    Dm  Am  Dm  Am
+          G#m Am  Dm  G
+          
+    Standard
+    V/C:  G   Bm  G   Bm
+          G   Bm  A   A
+    B:    Em  Bm  Em  Bm
+          F#m Bm  Em  A (Asus4)
 
 ### Cranberries
 #### Zombie
@@ -283,6 +308,18 @@ and their chords for reference.
 #### Free Fallin'
     A   D
     D   A   E
+    
+### Tracy Chapman
+#### Gimme One Reason
+    Capo 2
+    E                              A          B7               E    E7 E
+    Give me one reason to stay here, and I'll turn right back around
+    A                              A7         B7               E   E7 E
+    Give me one reason to stay here, and I'll turn right back around
+              B7
+    Because I don't want leave you lonely
+        A                            E    E7 E
+    But you got to make me change my mind
  
 ### Traveling Wilburys
 #### End of the Line

@@ -6,6 +6,9 @@
 ### Twitter Bots
 * [On Tyranny](https://www.twitter.com/BotTyranny)
 
+### Guitar
+* [My Personal Chord Book of Favorites](https://mixolyde.net/chordbook.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mixolyde/mixolyde.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
