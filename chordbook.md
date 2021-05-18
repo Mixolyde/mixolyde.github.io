@@ -74,7 +74,7 @@ and their chords for quick reference.
     C   D   G   G
     
     Standard
-    A   A   F#m  F#m
+    A   A   F#m F#m
     D   E   A   A
     
 ### Black Crowes
