@@ -41,11 +41,32 @@ and their chords for quick reference.
     
 ### Barenaked Ladies
 #### If I had a Million Dollars
-    V: A   E   Dsus2  A
-       A   E   Dsus2  E
-    C: Dsus2  E   A  A/G#   F#m   Dsus2
-       E
-       
+    V:  A   E   Dsus2  A
+        A   E   Dsus2  E
+    C:  Dsus2  E   A  A/G#   F#m   Dsus2
+        E
+
+#### Old Apartment
+    Capo 3
+    Chorus
+    G          D          Cadd9
+    G          D          Cadd9
+    G          D          Cadd9
+               D          G
+    G          D          Cadd9
+    
+    [Verse]
+    Em7      D            Cadd9
+    Em7      D            Cadd9
+    Em7      D            Cadd9      D                     G
+
+    [Bridge]
+    Em7  D     G          Cadd9
+    Am   D     G          Cadd9
+    Em7  D     G          Cadd9
+    Am   D     G
+
+    
 ### Ben E. King
 #### Stand By Me
     Capo 2
@@ -143,6 +164,12 @@ and their chords for quick reference.
         F   C   Dm  E
     C:  F   C   E7  Am
         F   C   Dm  E
+        
+    Standard
+    V:  Bm  F#7  A   E
+        G   D    Em  F#
+    C:  G   D    F#7 Bm
+        G   D    Em  F#
         
 #### Take It Easy
     Verse
@@ -320,7 +347,12 @@ and their chords for quick reference.
     Because I don't want leave you lonely
         A                            E    E7 E
     But you got to make me change my mind
- 
+    
+    Standard
+    F#   B   C#7  F#  F#7  F#
+    B    B7  C#7  F#  F#7  F#
+    C#7  B   F#   F#7 F#
+    
 ### Traveling Wilburys
 #### End of the Line
     e|---7-7-7-7-7-2-2-|---7-7-7-7-7--9-10-|---7-7-7-7-7--9-10-12-14----|
