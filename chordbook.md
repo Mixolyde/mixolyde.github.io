@@ -58,7 +58,7 @@ and their chords for quick reference.
     
 ### Black Crowes
 #### She Talks to Angels
-    E   E
+    E   E   Esus4 E Esus4 E
     B   A   E   E
     
 ### Blues Traveller
