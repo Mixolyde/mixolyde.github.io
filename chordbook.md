@@ -181,6 +181,16 @@ and their chords for quick reference.
     C   G   C   G
     Am  C   G   G
 
+### Edwin McCain
+#### I'll Be
+    Verse
+    G   Cadd9
+    G   D/F#  Cadd9
+    Chorus
+    G   G5/F#   Em7   G5/F#
+    G   G5/F#   Em7   G5/F#
+    
+    
 ### Gin Blossoms
 #### Found Out About You
     G|-------4---2-0---0-----2-4-2-0---|
@@ -201,8 +211,8 @@ and their chords for quick reference.
 #### Friend of the Devil
     e|-----------------|
     B|-----------------|
-    G|-0---------------|
-    D|---4-2-0---------|
+    G|-----------------|
+    D|-5-4-2-0---------|
     A|---------3-2-0---|
     E|---------------3-| 4x
 
@@ -277,12 +287,18 @@ and their chords for quick reference.
 ### Passenger
 #### Let Her Go
     Capo 7
-    I:  G   F   G   Am
-        G   F   G   Am
-    V:  Am  F   G   Em
-        Am  F   G   G
-    C:  F   C   G   Am
-        F   C   G   G
+    E|---0-----|
+    B|-3---3-1-|
+    
+    Fmaj7 144320
+    G6    3X0030
+    
+    I:  Fmaj7     G6   Am   G6
+        Fmaj7     G6   Am       G6
+    C:  Fmaj7   C   G   Am
+        Fmaj7   C   G   G
+    V:  Am  Fmaj7   G   Em
+        Am  Fmaj7   G   G
 
 ### Pink Floyd
 #### Wish You Were Here
