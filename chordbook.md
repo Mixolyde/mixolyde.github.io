@@ -183,13 +183,23 @@ and their chords for quick reference.
 
 ### Edwin McCain
 #### I'll Be
-    Verse
-    G   Cadd9
-    G   D/F#  Cadd9
-    Chorus
-    G   G5/F#   Em7   G5/F#
-    G   G5/F#   Em7   G5/F#
-    
+    Capo 2
+    I:  A    D    A    D
+    V:  A    D
+        A    E  D
+        A    D
+        A    E  D
+        A    E    D    E  (x4)
+    C:  A    D
+        A    E  D
+        A    D
+        A    E    D    A
+        D    A    E    D
+    B:  F#m
+        E    D
+        F#m
+        E    D    Gsus4    E
+        
     
 ### Gin Blossoms
 #### Found Out About You
