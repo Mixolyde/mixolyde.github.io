@@ -22,10 +22,10 @@ and their chords for quick reference.
 ### 4 Non-Blondes
 #### What's Up
     Capo 2
-    G   Am  C   G
+    G  Am  C   G
     
     Standard
-    A   Bm  D   A
+    A  Bm  D   A
     
 ### America
 #### Horse With No Name
@@ -132,6 +132,16 @@ and their chords for quick reference.
     B:    Em  Bm  Em  Bm
           F#m Bm  Em  A (Asus4)
 
+### The Byrds
+#### You Ain't Goin' Nowhere
+    G  Am  C   G
+
+### Candlebox
+#### Far Behind
+    V/C:  G  Em  D  Cadd9
+    B:    E7
+    Out:  G x2 Em x2
+
 ### Cranberries
 #### Zombie
     Em  C   G   D/F#   
@@ -206,10 +216,10 @@ and their chords for quick reference.
     G|-------4---2-0---0-----2-4-2-0---|
     D|---2-2---0-----2---2-0-----------|
     
-    Cadd9  Dsus2  Em7  Dsus2
+    V: Cadd9  Dsus2  Em7  Dsus2
     
-    C
-    G   D
+    C: C
+       G   D
     
 #### Hey Jealousy
     D5  E5  F#5  E5
@@ -293,6 +303,12 @@ and their chords for quick reference.
         F    C     D
     C:  F    C     D
     B:  G    Bb    C
+
+#### Sweet Home Alabama
+    D   Cadd9   G x2
+
+    F   C   G
+   (Boo hoo hoo!)
     
 ### Passenger
 #### Let Her Go
@@ -359,7 +375,7 @@ and their chords for quick reference.
     
 ### Tom Petty
 #### Free Fallin'
-    A   D
+    A       D
     D   A   E
     
 ### Tracy Chapman
