@@ -97,13 +97,11 @@ and their chords for quick reference.
 
 ### Bruno Mars
 #### Uptown Funk
-    Capo 5
-    V:  Am7  D7  Am7  D7
-    C:  Am   Am  Am
-        C    C   C    D
-    
-    Standard
     V:  Dm7  G7  Dm7  G7
+    e|--13---13-|
+    B|--13---12-|
+    G|--10---10-|
+
     C:  Dm   Dm  Dm
         F    F   F    G
         
@@ -313,7 +311,7 @@ and their chords for quick reference.
 ### Passenger
 #### Let Her Go
     Capo 7
-    E|---0-----|
+    e|---0-----|
     B|-3---3-1-|
     
     Fmaj7 144320
