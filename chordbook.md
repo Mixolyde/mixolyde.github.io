@@ -77,6 +77,13 @@ and their chords for quick reference.
     A   A   F#m F#m
     D   E   A   A
     
+### Bill Withers
+#### Aint No Sunshine
+    Am  Am  Em  G   Am
+    Am  Am  Em  G   Am
+    Em
+    Dm  Am  Em  G   Am
+    
 ### Black Crowes
 #### She Talks to Angels
     E   E   Esus4 E Esus4 E
@@ -119,12 +126,14 @@ and their chords for quick reference.
     
 #### Maybe It's Just Me
     Capo 2
+    I:    F   Am  F   Am
     V/C:  F   Am  F   Am
           F   Am  G   G
     B:    Dm  Am  Dm  Am
           G#m Am  Dm  G
           
     Standard
+    I  :  G   Bm  G   Bm
     V/C:  G   Bm  G   Bm
           G   Bm  A   A
     B:    Em  Bm  Em  Bm
@@ -412,6 +421,15 @@ and their chords for quick reference.
     D   D   G
     D   D   A
     
+### Vance Joy
+#### Riptide
+    Capo 1
+    Verse/Chorus:
+    Am  G   C   C
+
+    Bridge:
+    Am  G   C   Fmaj7
+
 ### Weezer
 #### Island in the Sun
     Em  Am  D   G
