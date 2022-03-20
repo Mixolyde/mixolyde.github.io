@@ -274,6 +274,14 @@ and their chords for quick reference.
     Em      F      C    G
     D       D7    
 
+### Katy Perry
+#### Roar
+    Capo 3
+    G x3 Am Em x3 C
+    
+    Standard (I IIm VIm IV)
+    A# x3 Cm Gm x3 D#
+
 ### Led Zeppelin
 #### Immigrant Song
     F#
@@ -428,7 +436,8 @@ and their chords for quick reference.
     Am  G   C   C
 
     Bridge:
-    Am  G   C   Fmaj7
+    Am      G
+    C       Fmaj7
 
 ### Weezer
 #### Island in the Sun
