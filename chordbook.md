@@ -91,6 +91,18 @@ and their chords for quick reference.
     Am  Am  Em  G   Am
     Em
     Dm  Am  Em  G   Am
+
+#### Lean on Me
+    C   
+    C   Dm  Em  F
+    F   Em  Dm  C
+    C   Dm  Em  
+    Em  Dm
+    C
+    C   Dm  Em  F
+    F   Em  Dm  C
+    C   Dm  Em  
+    G   C
     
 ### Black Crowes
 #### She Talks to Angels
