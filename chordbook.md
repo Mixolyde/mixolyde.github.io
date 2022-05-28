@@ -38,6 +38,14 @@ and their chords for quick reference.
     022000  xx0200
     Em9     Dmaj9
     020002  xx0220
+
+### The Band
+#### The Weight
+    V:  A   C#m D   A
+    C:  A   E   D
+        D D
+        A   C#m F#m E   D
+        D D
     
 ### Barenaked Ladies
 #### If I had a Million Dollars
