@@ -321,7 +321,7 @@ and their chords for quick reference.
     F   Am   F   C
     G   C
     
-    Capo 6
+    Capo 5
     Verse
     G   Em   G   Em
     G   Em   G   Em
