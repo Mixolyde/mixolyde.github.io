@@ -344,6 +344,19 @@ and their chords for quick reference.
 
     F   C   G
    (Boo hoo hoo!)
+
+### Nathan Evans
+#### Wellerman
+    Capo 3
+    V:  Am  Am  Dm  Am
+        Am  Am  E7  Am
+    C:  F   C   Dm  Am
+        F   C   E7  Am
+    Standard
+    V:  Cm  Cm  Fm  Cm
+        Cm  Cm  G7  Cm
+    C:  Ab  Bb  Fm  Cm
+        Ab  Bb  G7  Cm
     
 ### Passenger
 #### Let Her Go
