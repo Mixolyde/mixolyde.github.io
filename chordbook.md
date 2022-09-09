@@ -299,7 +299,19 @@ and their chords for quick reference.
     Em      D/F#   G    G
     C       G      D    D
     Em      F      C    G
-    D       D7    
+    D       D7  
+
+### Journey
+#### Don't Stop Believin'
+    Capo 2
+    D   A   Bm  G
+    D   G   F#m G
+
+    G       D
+    G       D
+    G       D
+    G   A   D  A D G
+
 
 ### Katy Perry
 #### Roar
