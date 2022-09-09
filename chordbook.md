@@ -224,26 +224,6 @@ and their chords for quick reference.
     Am  C   Em  Em
     C   G   C   G
     Am  C   G   G
-
-### Edwin McCain
-#### I'll Be
-    Capo 2
-    I:  A    D    A    D
-    V:  A    D
-        A    E  D
-        A    D
-        A    E  D
-        A    E    D    E  (x4)
-    C:  A    D
-        A    E  D
-        A    D
-        A    E    D    A
-        D    A    E    D
-    B:  F#m
-        E    D
-        F#m
-        E    D    Gsus4    E
-        
     
 ### Gin Blossoms
 #### Found Out About You
