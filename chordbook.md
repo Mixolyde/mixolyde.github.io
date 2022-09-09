@@ -41,11 +41,18 @@ and their chords for quick reference.
 
 ### The Band
 #### The Weight
+    Standard A
     V:  A   C#m D   A
     C:  A   E   D
         D D
         A   C#m F#m E   D
         D D
+    Key of G
+    V:  G   Bm  C   G
+    C:  G   D   C
+        C C
+        G   Bm  Em  D   C
+        C C
     
 ### Barenaked Ladies
 #### If I had a Million Dollars
