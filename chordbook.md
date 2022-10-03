@@ -129,6 +129,11 @@ and their chords for quick reference.
 #### Run-Around
     G   Cadd9  Am   D
 
+### Bob Dylan
+#### Knockin' on Heaven's Door
+    G   D   Am7 Am7
+    G   D   C   C
+
 ### Bruno Mars
 #### Uptown Funk
     V:  Dm7  G7  Dm7  G7
