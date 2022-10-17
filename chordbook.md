@@ -484,3 +484,14 @@ and their chords for quick reference.
     Standard
     V/C: C   G   G#   D#
     B:   B5    B/C#5   E5    F#5   
+
+### Young the Giant
+#### Cough Syrup
+    V/B: D   A   G   A
+    1st C:
+    Bm  A G#-G  Bm  A
+    G   Bm   A
+    2nd C:
+    Bm  A G#-G  Bm  A
+    G   Bm   A
+    Bm  A    G  Bm  A
