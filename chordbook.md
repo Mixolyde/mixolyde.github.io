@@ -427,8 +427,18 @@ and their chords for quick reference.
     
 ### Tom Petty
 #### Free Fallin'
-    A       D
-    D   A   E
+    In A:
+    A         Dsus2
+    Dsus2 A   Esus4
+
+    Recording in F:
+    Capo 3
+    D         Gsus2
+    Gsus2 D   Asus4
+
+    Capo 5
+    C         Asus2
+    Asus2 C   Gsus4
     
 ### Tracy Chapman
 #### Gimme One Reason
