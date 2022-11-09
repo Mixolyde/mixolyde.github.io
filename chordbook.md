@@ -81,7 +81,30 @@ and their chords for quick reference.
     Em7  D     G          Cadd9
     Am   D     G
 
+   
+### The Beatles
+#### Ob-La-Di
+    Capo 1
+    Verse:
+    A   E   E7  A
+    A   D   A   E A
+    Chorus:
+    A   E F#m7 (bra!)
+    A   E A
+    Bridge:
+    D 
+    A Asus2 A A7
+    D
+    A/E  A
     
+#### Yellow Submarine
+    Recorded a semitone down in Gb
+    Verse:
+    (G) D   C   G
+    Em  Am  C   D7
+    Chorus:
+    G   D   D   G
+ 
 ### Ben E. King
 #### Stand By Me
     Capo 2
