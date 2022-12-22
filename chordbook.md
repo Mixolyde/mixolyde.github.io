@@ -437,6 +437,13 @@ and their chords for quick reference.
 #### Closin' Time
     G   D   Am   C
 
+### Shawn Mendes
+#### Treat You Better
+    Verse:
+    Am  G   F x2
+    Chorus:
+    Am  G   F   C
+
 ### Stevie Wonder
 #### Superstition
     Standard
