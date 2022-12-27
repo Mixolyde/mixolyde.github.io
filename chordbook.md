@@ -443,6 +443,9 @@ and their chords for quick reference.
     Am  G   F x2
     Chorus:
     Am  G   F   C
+    Bridge:
+    Am  G   C   F
+    Am  G   F x2
 
 ### Stevie Wonder
 #### Superstition
