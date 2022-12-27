@@ -415,6 +415,10 @@ and their chords for quick reference.
 ### Radiohead
 #### Creep
     G   B   C   Cm
+
+### Sam Smith
+#### Stay With Me
+    Am  F   C x2
     
 ### Sara Bareilles
 #### Brave
