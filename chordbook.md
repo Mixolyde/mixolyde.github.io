@@ -475,10 +475,6 @@ and their chords for quick reference.
     Bb7   Cb9b5   Bb7   A9b5
     Ab9sus4  Bb7
 
-### TLC
-#### Waterfalls
-    D   A   C   G
-    
 ### Tom Petty
 #### Free Fallin'
     In A:
