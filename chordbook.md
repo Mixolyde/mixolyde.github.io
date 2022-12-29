@@ -475,6 +475,13 @@ and their chords for quick reference.
     Bb7   Cb9b5   Bb7   A9b5
     Ab9sus4  Bb7
 
+### The Tokens
+#### The Lion Sleeps Tonight
+    High:
+    G   C   G   D
+    Low:
+    D   G   D   A
+
 ### Tom Petty
 #### Free Fallin'
     In A:
