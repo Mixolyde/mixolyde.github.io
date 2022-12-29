@@ -252,6 +252,23 @@ and their chords for quick reference.
     Am  C   Em  Em
     C   G   C   G
     Am  C   G   G
+
+### Fleetwood Mac
+#### Dreams
+    V: F     G
+    C: Fmaj7 G6
+       Fmaj7 G
+
+    Capo 3
+    D   E
+
+    Capo 5
+    C   D
+
+#### Rhiannon
+    V: Am  F   Am  F
+    C: C   F   C   F
+    B: F   Am  F   Am
     
 ### Gin Blossoms
 #### Found Out About You
