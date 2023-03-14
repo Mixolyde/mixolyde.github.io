@@ -229,6 +229,13 @@ and their chords for quick reference.
     C:  Am  G   (F  F/E) x3   G
         D   E
 
+### Dropkick Murphies
+#### Shippin Up to Boston
+    V:  E5  E5  E5  D5 A5
+    PC: E5  D5  E5  D5 A5
+    C:  D       C   G
+
+
 ### Eagles
 #### Hotel California
     Capo 2
