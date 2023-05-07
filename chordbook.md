@@ -539,6 +539,14 @@ and their chords for quick reference.
     D   D   G
     D   D   G
     D   D   A
+
+### Unknown/Various
+#### I Love the Mountains 
+    In C:
+    C   Am  Dm  G7
+
+    In G (Discovery Channel)
+    G   Em  Am  D7
     
 ### Vance Joy
 #### Riptide
