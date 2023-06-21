@@ -84,9 +84,11 @@ and their chords for quick reference.
    
 ### The Beatles
 #### Let It Be
-V:  C   G   Am  F
+    Verse:
+    C   G   Am  F
     C   G   F   C
-C:  Am  G   F   C
+    Chorus:
+    Am  G   F   C
     Am  G   F   C
 
 #### Ob-La-Di
