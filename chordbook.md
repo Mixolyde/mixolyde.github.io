@@ -448,6 +448,14 @@ and their chords for quick reference.
 #### Creep
     G   B   C   Cm
 
+### Ricchi e Poveri
+#### Sara Perche Ti Amo
+    Recording:
+    Capo 4
+    C   Am  F   G
+    Std
+    E   C#m A   B
+
 ### Sam Smith
 #### Stay With Me
     Am  F   C x2
