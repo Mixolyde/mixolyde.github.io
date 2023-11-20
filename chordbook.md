@@ -214,7 +214,13 @@ and their chords for quick reference.
 
 ### Cranberries
 #### Zombie
-    Em  C   G   D/F#   
+    Em  C   G   D/F#
+
+### Darius Rucker
+#### Wagon Wheel
+    Capo 2
+    G   D   Em  C
+    G   D   C
 
 ### Dave Matthews Band
 #### Ants Marching
