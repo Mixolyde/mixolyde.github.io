@@ -216,6 +216,12 @@ and their chords for quick reference.
 #### Zombie
     Em  C   G   D/F#
 
+### Creedence Clearwater Revival
+#### Bad Moon Rising
+    V: D   A G D   D
+    C: G       D
+       A7  G   D   D
+
 ### Darius Rucker
 #### Wagon Wheel
     Capo 2
