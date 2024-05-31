@@ -338,6 +338,16 @@ and their chords for quick reference.
     Standard
     B   F#  G#m  E  (Chorus ends on C#7 pause)
     
+### Jimmy Buffet
+#### Margaritaville
+    D    A
+    A7   D   D7
+
+    G   A   D   D7
+    G   A   D   D7
+    G   A   D A G
+    A   D
+
 ### John Denver
 #### Country Roads
     Capo 2
