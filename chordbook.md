@@ -606,7 +606,11 @@ and their chords for quick reference.
 
 ### Weezer
 #### Island in the Sun
+    Verse/Chorus
     Em  Am  D   G
+    Bridge
+    D   G   D   G
+    C   Am  D   D
 
 #### Say It Ain't So
     Standard
