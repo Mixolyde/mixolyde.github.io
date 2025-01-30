@@ -1,4 +1,4 @@
-y## My Guitar Chord Book
+### My Guitar Chord Book
 
 A collection of my favorite songs to play on guitar,
 and their chords for quick reference.
