@@ -56,10 +56,15 @@ and their chords for quick reference.
     
 ### Barenaked Ladies
 #### If I had a Million Dollars
-    V:  A   E   Dsus2  A
-        A   E   Dsus2  E
-    C:  Dsus2  E   A  A/G#   F#m   Dsus2
-        E
+    Capo 2
+    V:  G   D   Csus2  G
+        D   Csus2  G
+        D   Csus2  G
+        D   Csus2  D
+    C:  Csus2  D   G  G/F#  Em   Csus2
+        D   G  G/F#  Em   Csus2
+        D   G  G/F#  Em   Csus2
+        D
 
 #### Old Apartment
     Capo 3
@@ -164,16 +169,6 @@ and their chords for quick reference.
 #### Knockin' on Heaven's Door
     G   D   Am7 Am7
     G   D   C   C
-
-### Bruno Mars
-#### Uptown Funk
-    V:  Dm7  G7  Dm7  G7
-    e|--13---13-|
-    B|--13---12-|
-    G|--10---10-|
-
-    C:  Dm   Dm  Dm
-        F    F   F    G
         
 ### Butch Walker
 #### Here Comes The
