@@ -431,6 +431,20 @@ and their chords for quick reference.
     F   C   G
    (Boo hoo hoo!)
 
+## Matt Nathanson
+### Come On Get Higher
+    Capo 2
+    V:  G/B Cadd9 G x2
+        Em7 Cadd9 D x2
+    PC: Cadd9     G
+        Em7       D
+    C:  Cadd9 G   Cadd9 G
+        Cadd9 G   Em7   D
+    B:  Cadd9     Em7
+        G  D  Cadd9  Em7
+        D  x2
+        
+
 ## Nathan Evans
 ### Wellerman
     Capo 3
