@@ -546,6 +546,24 @@ and their chords for quick reference.
     Bb7   Cb9b5   Bb7   A9b5
     Ab9sus4  Bb7
 
+## Taylor Swift
+### All Too Well
+    V/C: C   G   Am  F
+    PC:  C   G   Am  G
+         F G Am F
+    B:   C   G   Am  F   G
+
+### Lover
+    V:  G   D   C   C
+    C:  G   D   C   C     x3
+        G F# Em D C
+    B:  G   D   Em  F
+        C   G   Am  D
+        G   D   Em  F
+        C   G   Am  D
+        G   F   C   C
+        Am      D
+
 ## The Tokens
 ### The Lion Sleeps Tonight
     High:
