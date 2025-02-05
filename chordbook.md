@@ -1,9 +1,9 @@
-### My Guitar Chord Book
+# My Guitar Chord Book
 
 A collection of my favorite songs to play on guitar,
 and their chords for quick reference.
 
-### 12-Bar Blues
+## 12-Bar Blues
     Key of A
     A   A   A   A
     D   D   A   A
@@ -19,16 +19,16 @@ and their chords for quick reference.
     C   C   G   G
     D   C   G   G (or D) 
     
-### 4 Non-Blondes
-#### What's Up
+## 4 Non-Blondes
+### What's Up
     Capo 2
     G  Am  C   G
     
     Standard
     A  Bm  D   A
     
-### America
-#### Horse With No Name
+## America
+### Horse With No Name
     Easy Way
     Em      Asus2
     022000  002200
@@ -39,8 +39,8 @@ and their chords for quick reference.
     Em9     Dmaj9
     020002  xx0220
 
-### The Band
-#### The Weight
+## The Band
+### The Weight
     Standard A
     V:  A   C#m D   A
     C:  A   E   D
@@ -54,15 +54,15 @@ and their chords for quick reference.
         G   Bm  Em  D   C
         C C
     
-### Barenaked Ladies
-#### If I had a Million Dollars
+## Barenaked Ladies
+### If I had a Million Dollars
     Capo 2
     V:  G   D   Csus2 x2
         G   D   Csus2  D (big ending)
     C:  Csus2  D   G  (G/F#)  Em
         Csus2  D
 
-#### Old Apartment
+### Old Apartment
     Capo 3
     Chorus
     G          D          Cadd9
@@ -83,8 +83,8 @@ and their chords for quick reference.
     Am   D     G
 
    
-### The Beatles
-#### Let It Be
+## The Beatles
+### Let It Be
     Verse:
     C   G   Am  F
     C   G   F   C
@@ -92,7 +92,7 @@ and their chords for quick reference.
     Am  G   F   C
     Am  G   F   C
 
-#### Ob-La-Di
+### Ob-La-Di
     Capo 1
     Verse:
     A   E   E7  A
@@ -106,7 +106,7 @@ and their chords for quick reference.
     D
     A/E  A
     
-#### Yellow Submarine
+### Yellow Submarine
     Recorded a semitone down in Gb
     Verse:
     (G) D   C   G
@@ -114,8 +114,8 @@ and their chords for quick reference.
     Chorus:
     G   D   D   G
  
-### Ben E. King
-#### Stand By Me
+## Ben E. King
+### Stand By Me
     Capo 2
     G   G   Em  Em
     C   D   G   G
@@ -124,14 +124,14 @@ and their chords for quick reference.
     A   A   F#m F#m
     D   E   A   A
     
-### Bill Withers
-#### Aint No Sunshine
+## Bill Withers
+### Aint No Sunshine
     Am  Am  Em  G   Am
     Am  Am  Em  G   Am
     Em
     Dm  Am  Em  G   Am
 
-#### Lean on Me
+### Lean on Me
     C   
     C   Dm  Em  F
     F   Em  Dm  C
@@ -143,13 +143,13 @@ and their chords for quick reference.
     C   Dm  Em  
     G   C
     
-### Black Crowes
-#### She Talks to Angels
+## Black Crowes
+### She Talks to Angels
     E   E   Esus4 E Esus4 E
     B   A   E   E
     
-### Blues Traveller
-#### Hook
+## Blues Traveller
+### Hook
     A   E   F#m7  C#7  D   A   D    E
     5   7   9/12  9    5
     5   9   10    9/12 7
@@ -158,16 +158,16 @@ and their chords for quick reference.
     7   7   9     11   5
     5   7   9     9    5
 
-#### Run-Around
+### Run-Around
     G   Cadd9  Am   D
 
-### Bob Dylan
-#### Knockin' on Heaven's Door
+## Bob Dylan
+### Knockin' on Heaven's Door
     G   D   Am7 Am7
     G   D   C   C
         
-### Butch Walker
-#### Here Comes The
+## Butch Walker
+### Here Comes The
     C:  A    E   Bm   Bm
         D    A   F#m  E
         A    E   Bm   D
@@ -178,7 +178,7 @@ and their chords for quick reference.
         D    Dm    F#m  C#m7
         D
     
-#### Maybe It's Just Me
+### Maybe It's Just Me
     Capo 2
     I:    F   Am  F   Am
     V/C:  F   Am  F   Am
@@ -193,34 +193,34 @@ and their chords for quick reference.
     B:    Em  Bm  Em  Bm
           F#m Bm  Em  A (Asus4)
 
-### The Byrds
-#### You Ain't Goin' Nowhere
+## The Byrds
+### You Ain't Goin' Nowhere
     G  Am  C   G
 
-### Candlebox
-#### Far Behind
+## Candlebox
+### Far Behind
     V/C:  G  Em  D  Cadd9
     B:    E7
     Out:  G x2 Em x2
 
-### Cranberries
-#### Zombie
+## Cranberries
+### Zombie
     Em  C   G   D/F#
 
-### Creedence Clearwater Revival
-#### Bad Moon Rising
+## Creedence Clearwater Revival
+### Bad Moon Rising
     V: D   A G D   D
     C: G       D
        A7  G   D   D
 
-### Darius Rucker
-#### Wagon Wheel
+## Darius Rucker
+### Wagon Wheel
     Capo 2
     G   D   Em  C
     G   D   C
 
-### Dave Matthews Band
-#### Ants Marching
+## Dave Matthews Band
+### Ants Marching
     V:  D   G
     C:  Bm  D  G
         Bm  D  G
@@ -232,23 +232,23 @@ and their chords for quick reference.
     x  x  2  2
     3  2
     
-### David Bowie
-#### Ziggy Stardust
+## David Bowie
+### Ziggy Stardust
     I:  G   D   C9  G6/B  Am7/4
     V:  G   Bm  C   C/B   C   D
         G   Em  Am  C
     C:  Am  G   (F  F/E) x3   G
         D   E
 
-### Dropkick Murphies
-#### Shippin Up to Boston
+## Dropkick Murphies
+### Shippin Up to Boston
     V:  E5  E5  E5  D5 A5
     PC: E5  D5  E5  D5 A5
     C:  D       C   G
 
 
-### Eagles
-#### Hotel California
+## Eagles
+### Hotel California
     Capo 2
     V:  Am  E7  G   D
         F   C   Dm  E
@@ -261,7 +261,7 @@ and their chords for quick reference.
     C:  G   D    F#7 Bm
         G   D    Em  F#
         
-#### Take It Easy
+### Take It Easy
     Verse
     G   G   G   D C
     G   D   C   G
@@ -271,8 +271,8 @@ and their chords for quick reference.
     C   G   C   G
     Am  C   G   G
 
-### Fleetwood Mac
-#### Dreams
+## Fleetwood Mac
+### Dreams
     V: F     G
     C: Fmaj7 G6
        Fmaj7 G
@@ -283,13 +283,13 @@ and their chords for quick reference.
     Capo 5
     C   D
 
-#### Rhiannon
+### Rhiannon
     V: Am  F   Am  F
     C: C   F   C   F
     B: F   Am  F   Am
     
-### Gin Blossoms
-#### Found Out About You
+## Gin Blossoms
+### Found Out About You
     G|-------4---2-0---0-----2-4-2-0---|
     D|---2-2---0-----2---2-0-----------|
     
@@ -298,14 +298,14 @@ and their chords for quick reference.
     C: C
        G   D
     
-#### Hey Jealousy
+### Hey Jealousy
     D5  E5  F#5  E5
 
     A5  D5  A5   D5
     F#5 E5  D5
     
-### Grateful Dead
-#### Friend of the Devil
+## Grateful Dead
+### Friend of the Devil
     e|-----------------|
     B|-----------------|
     G|-----------------|
@@ -320,17 +320,31 @@ and their chords for quick reference.
     
     D   C
     D   Am   C  D
+
+## Green Day
+### Brain Stew
+    Ab  Gb  Fm  E Eb
+
+### Good Riddance
+    V: G x2   C   D 
+       Em  D  C   D
+    C: Em  G  Em  G
+       Em  D
+
+### When I Come Around
+    V: Gb  Db  Ebm  Cb
+    C: Ab      Cb
             
-### Jason Mraz
-#### I'm Yours
+## Jason Mraz
+### I'm Yours
     Capo 4
     G   D   Em   C  (Chorus ends on A7 pause)
     
     Standard
     B   F#  G#m  E  (Chorus ends on C#7 pause)
     
-### Jimmy Buffet
-#### Margaritaville
+## Jimmy Buffet
+### Margaritaville
     D    A
     A7   D   D7
 
@@ -339,8 +353,8 @@ and their chords for quick reference.
     G   A   D A G
     A   D
 
-### John Denver
-#### Country Roads
+## John Denver
+### Country Roads
     Capo 2
     Verse
     G   Em   D    C G
@@ -354,8 +368,8 @@ and their chords for quick reference.
     Em      F      C    G
     D       D7  
 
-### Journey
-#### Don't Stop Believin'
+## Journey
+### Don't Stop Believin'
     Capo 2
     D   A   Bm  G
     D   G   F#m G
@@ -366,22 +380,22 @@ and their chords for quick reference.
     G   A   D  A D G
 
 
-### Katy Perry
-#### Roar
+## Katy Perry
+### Roar
     Capo 3
     G x3 Am Em x3 C
     
     Standard (I IIm VIm IV)
     A# x3 Cm Gm x3 D#
 
-### Led Zeppelin
-#### Immigrant Song
+## Led Zeppelin
+### Immigrant Song
     F#
     A/E
     A   B   C   C
 
-### Leonard Cohen/Buckley/Rufus Wainwright
-#### Hallelujah
+## Leonard Cohen/Buckley/Rufus Wainwright
+### Hallelujah
     Standard
     Verse
     C   Am   C   Am
@@ -404,21 +418,21 @@ and their chords for quick reference.
     C   Em   C   G 
     D   G
     
-### Lynard Skynard
-#### Free Bird
+## Lynard Skynard
+### Free Bird
     V:  G    D/F#  Em
         F    C     D
     C:  F    C     D
     B:  G    Bb    C
 
-#### Sweet Home Alabama
+### Sweet Home Alabama
     D   Cadd9   G x2
 
     F   C   G
    (Boo hoo hoo!)
 
-### Nathan Evans
-#### Wellerman
+## Nathan Evans
+### Wellerman
     Capo 3
     V:  Am  Am  Dm  Am
         Am  Am  E7  Am
@@ -430,8 +444,8 @@ and their chords for quick reference.
     C:  Ab  Bb  Fm  Cm
         Ab  Bb  G7  Cm
     
-### Passenger
-#### Let Her Go
+## Passenger
+### Let Her Go
     Capo 7
     e|---0-----|
     B|-3---3-1-|
@@ -446,35 +460,35 @@ and their chords for quick reference.
     V:  Am  Fmaj7   G   Em
         Am  Fmaj7   G   G
 
-### Pink Floyd
-#### Wish You Were Here
+## Pink Floyd
+### Wish You Were Here
     C    D/F#   Am/E   G
     D/F# C      Am     G
   
-### Proclaimers
-#### 500 Miles
+## Proclaimers
+### 500 Miles
     V/C: E   A   B   E
     B:   E   A   B   C#m
          F#m B   E
 
-### Radiohead
-#### Creep
+## Radiohead
+### Creep
     G   B   C   Cm
 
-### Ricchi e Poveri
-#### Sara Perche Ti Amo
+## Ricchi e Poveri
+### Sara Perche Ti Amo
     Recording:
     Capo 4
     C   Am  F   G
     Std
     E   C#m A   B
 
-### Sam Smith
-#### Stay With Me
+## Sam Smith
+### Stay With Me
     Am  F   C x2
     
-### Sara Bareilles
-#### Brave
+## Sara Bareilles
+### Brave
     Capo 3
     V:  G   G   Em  Em
         C   D
@@ -490,12 +504,12 @@ and their chords for quick reference.
         Em     G
         Dsus4  D
     
-### Semisonic
-#### Closin' Time
+## Semisonic
+### Closin' Time
     G   D   Am   C
 
-### Shawn Mendes
-#### Treat You Better
+## Shawn Mendes
+### Treat You Better
     Verse:
     Am  G   F x2
     Chorus:
@@ -504,22 +518,22 @@ and their chords for quick reference.
     Am  G   C   F
     Am  G   F x2
 
-### Stevie Wonder
-#### Superstition
+## Stevie Wonder
+### Superstition
     Standard
     Eb7
     Bb7   Cb9b5   Bb7   A9b5
     Ab9sus4  Bb7
 
-### The Tokens
-#### The Lion Sleeps Tonight
+## The Tokens
+### The Lion Sleeps Tonight
     High:
     G   C   G   D
     Low:
     D   G   D   A
 
-### Tom Petty
-#### Free Fallin'
+## Tom Petty
+### Free Fallin'
     In A:
     A         Dsus2
     Dsus2 A   Esus4
@@ -533,8 +547,8 @@ and their chords for quick reference.
     C         Asus2
     Asus2 C   Gsus4
     
-### Tracy Chapman
-#### Gimme One Reason
+## Tracy Chapman
+### Gimme One Reason
     Capo 2
     E                              A          B7               E    E7 E
     Give me one reason to stay here, and I'll turn right back around
@@ -550,8 +564,8 @@ and their chords for quick reference.
     B    B7  C#7  F#  F#7  F#
     C#7  B   F#   F#7 F#
     
-### Traveling Wilburys
-#### End of the Line
+## Traveling Wilburys
+### End of the Line
     e|---7-7-7-7-7-2-2-|---7-7-7-7-7--9-10-|---7-7-7-7-7--9-10-12-14----|
     B|---8-8-8-8-8-3-3-|---8-8-8-8-8-10-10-|---8-8-8-8-8-10-12-14-15----|
     G|---7-7-7-7-7-2-2-|---7-7-7-7-7--9-11-|---7-7-7-7-7--9-12-14-14----|
@@ -569,24 +583,24 @@ and their chords for quick reference.
     D   D   G
     D   D   A
 
-### U2
-#### Sunday Bloody Sunday
+## U2
+### Sunday Bloody Sunday
     Capo 1
     Verse:  Am  C   F6
     How L:  C   Dm
     Chorus: Am  C   F6
             Eb  Dm  C
 
-### Unknown/Various
-#### I Love the Mountains 
+## Unknown/Various
+### I Love the Mountains 
     In C:
     C   Am  Dm  G7
 
     In G (Discovery Channel)
     G   Em  Am  D7
     
-### Vance Joy
-#### Riptide
+## Vance Joy
+### Riptide
     Capo 1
     Verse/Chorus:
     Am  G   C   C
@@ -595,21 +609,21 @@ and their chords for quick reference.
     Am      G
     C       Fmaj7
 
-### Weezer
-#### Island in the Sun
+## Weezer
+### Island in the Sun
     Verse/Chorus
     Em  Am  D   G
     Bridge
     D   G   D   G
     C   Am  D   D
 
-#### Say It Ain't So
+### Say It Ain't So
     Standard
     V/C: C   G   G#   D#
     B:   B5    B/C#5   E5    F#5   
 
-### Young the Giant
-#### Cough Syrup
+## Young the Giant
+### Cough Syrup
     V/B: D   A   G   A
     1st C:
     Bm  A G#-G  Bm  A
