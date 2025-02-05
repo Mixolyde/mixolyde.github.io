@@ -521,6 +521,7 @@ and their chords for quick reference.
 ## Semisonic
 ### Closin' Time
     G   D   Am   C
+    B:  Bb x3
 
 ## Shawn Mendes
 ### Stitches
