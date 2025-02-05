@@ -57,14 +57,10 @@ and their chords for quick reference.
 ### Barenaked Ladies
 #### If I had a Million Dollars
     Capo 2
-    V:  G   D   Csus2  G
-        D   Csus2  G
-        D   Csus2  G
-        D   Csus2  D
-    C:  Csus2  D   G  G/F#  Em   Csus2
-        D   G  G/F#  Em   Csus2
-        D   G  G/F#  Em   Csus2
-        D
+    V:  G   D   Csus2 x2
+        G   D   Csus2  D (big ending)
+    C:  Csus2  D   G  (G/F#)  Em
+        Csus2  D
 
 #### Old Apartment
     Capo 3
