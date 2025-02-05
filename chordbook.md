@@ -443,7 +443,7 @@ and their chords for quick reference.
     B:  Cadd9     Em7
         G  D  Cadd9  Em7
         D  x2
-        
+
 
 ## Nathan Evans
 ### Wellerman
@@ -523,6 +523,13 @@ and their chords for quick reference.
     G   D   Am   C
 
 ## Shawn Mendes
+### Stitches
+    V/B:Am  G   C   F
+    PC: F   G   Am x2
+        F   G   Am  G
+    C:  Am  G   C   F
+        Am  G   F   C
+
 ### Treat You Better
     Verse:
     Am  G   F x2
