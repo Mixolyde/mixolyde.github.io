@@ -532,12 +532,12 @@ and their chords for quick reference.
 
 ### Treat You Better
     Verse:
-    Am  G   F x2
+    Am  G   F x2 (G)
     Chorus:
     Am  G   F   C
     Bridge:
     Am  G   C   F
-    Am  G   F x2
+    Am  G   C  x2
 
 ## Stevie Wonder
 ### Superstition
