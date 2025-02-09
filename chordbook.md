@@ -39,6 +39,17 @@ and their chords for quick reference.
     Em9     Dmaj9
     020002  xx0220
 
+## Anna Kendrick
+### Cups
+    Verse
+    C   C   F   C
+    Am  G   F   F
+    F   G   C
+    Chorus
+    Am  F   Am  G
+    Am  G   F   F
+    F   G   C   C
+
 ## The Band
 ### The Weight
     Standard A
