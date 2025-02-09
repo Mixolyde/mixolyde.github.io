@@ -303,6 +303,16 @@ and their chords for quick reference.
 
     A5  D5  A5   D5
     F#5 E5  D5
+
+## Gotye
+### Somebody That I used to know
+    Standard
+    V:  Dm  C   Dm  C
+    C:  Dm  C   A#  C
+
+    Capo 5
+    V:  Am  G   Am  G
+    C:  Am  G   F   G
     
 ## Grateful Dead
 ### Friend of the Devil
