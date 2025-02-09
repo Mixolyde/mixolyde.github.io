@@ -39,6 +39,10 @@ and their chords for quick reference.
     Em9     Dmaj9
     020002  xx0220
 
+## Andra Day
+### Rise Up
+    C   G   Am  F
+
 ## Anna Kendrick
 ### Cups
     Verse
