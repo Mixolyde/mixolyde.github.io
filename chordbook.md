@@ -666,7 +666,14 @@ and their chords for quick reference.
 ### Say It Ain't So
     Standard
     V/C: C   G   G#   D#
-    B:   B5    B/C#5   E5    F#5   
+    B:   B5    B/C#5   E5    F#5
+
+## The White Stripes
+### Seven Nation Army
+    C/V:  E5    E5 G5 E5 D5
+          C5    Cb5
+    PC:   G5    A
+
 
 ## Young the Giant
 ### Cough Syrup
