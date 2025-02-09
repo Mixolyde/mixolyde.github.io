@@ -627,9 +627,15 @@ and their chords for quick reference.
 ### Sunday Bloody Sunday
     Capo 1
     Verse:  Am  C   F6
-    How L:  C   Dm
+    How Long:  C   Dm
     Chorus: Am  C   F6
             Eb  Dm  C
+
+### With or Without You
+    D   A   Bm   G
+
+    Capo 2
+    C   G   Am   F
 
 ## Unknown/Various
 ### I Love the Mountains 
