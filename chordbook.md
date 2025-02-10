@@ -302,6 +302,20 @@ and their chords for quick reference.
     V: Am  F   Am  F
     C: C   F   C   F
     B: F   Am  F   Am
+
+## Foo Fighters
+### Everlong
+    Capo 2
+    Verse
+    Cmaj7 Asus2 Fsus2 Asus2
+
+    Riff
+    Cmaj7                      G
+    A |-222-333-555-777-787-|
+
+    Chorus
+    Am Fsus2 Cmaj7 Cmaj7    x2
+    Am Fsus2 Cmaj7 G   Fsus2
     
 ## Gin Blossoms
 ### Found Out About You
