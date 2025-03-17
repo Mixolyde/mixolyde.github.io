@@ -443,20 +443,22 @@ and their chords for quick reference.
     C   F G  Am  F
     G   E7   Am
     Chorus
-    F   Am   F   C
-    G   C
+    F   F    Am  Am
+    F   F    C   G
+    C
     
     Capo 5
     Verse
     G   Em   G   Em
     G   Em   G   Em
     C   D    G   D
-    G   C D  Em   C
+    G   C D  Em  C
     D   B7   Em
     Chorus
-    C   Em   C   G 
-    D   G
-    
+    C   C    Em   Em
+    C   C    G    D
+    G
+ 
 ## Lynard Skynard
 ### Free Bird
     V:  G    D/F#  Em
@@ -579,12 +581,6 @@ and their chords for quick reference.
     Am  G   C   F
     Am  G   C  x2
 
-## Stevie Wonder
-### Superstition
-    Standard
-    Eb7
-    Bb7   Cb9b5   Bb7   A9b5
-    Ab9sus4  Bb7
 
 ## Taylor Swift
 ### All Too Well
