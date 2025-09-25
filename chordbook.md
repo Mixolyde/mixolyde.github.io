@@ -427,6 +427,10 @@ and their chords for quick reference.
     Standard (I IIm VIm IV)
     A# x3 Cm Gm x3 D#
 
+### Teenage Dream (Stephen Dawes)
+    Capo 3
+    Cmaj7 Em G D
+
 ## Led Zeppelin
 ### Immigrant Song
     F#
