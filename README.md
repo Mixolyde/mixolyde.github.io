@@ -1,7 +1,8 @@
 ## Welcome to Mixolyde's Github Project Page
 
 ### Web Projects
-* [Blaseball Playoff Status](https://playoffstatus.sibr.dev)
+* [MMOLB Playoff Status](https://mixolyde.net/mmolb-playoff-status/)
+* [Blaseball Playoff Status](https://playoffstatus.sibr.dev) (defunct)
 
 ### Twitter Bots
 * [On Tyranny](https://www.twitter.com/BotTyranny)

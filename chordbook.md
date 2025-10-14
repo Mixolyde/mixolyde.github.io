@@ -427,6 +427,10 @@ and their chords for quick reference.
     Standard (I IIm VIm IV)
     A# x3 Cm Gm x3 D#
 
+### Teenage Dream (Stephen Dawes)
+    Capo 3
+    Cmaj7 Em G D
+
 ## Led Zeppelin
 ### Immigrant Song
     F#
@@ -443,20 +447,22 @@ and their chords for quick reference.
     C   F G  Am  F
     G   E7   Am
     Chorus
-    F   Am   F   C
-    G   C
+    F   F    Am  Am
+    F   F    C   G
+    C
     
     Capo 5
     Verse
     G   Em   G   Em
     G   Em   G   Em
     C   D    G   D
-    G   C D  Em   C
+    G   C D  Em  C
     D   B7   Em
     Chorus
-    C   Em   C   G 
-    D   G
-    
+    C   C    Em   Em
+    C   C    G    D
+    G
+ 
 ## Lynard Skynard
 ### Free Bird
     V:  G    D/F#  Em
@@ -512,6 +518,12 @@ and their chords for quick reference.
         Fmaj7   C   G   G
     V:  Am  Fmaj7   G   Em
         Am  Fmaj7   G   G
+
+## Pearl Jam
+### Black
+    V:  E7   Aadd9
+    PC: C    Em
+    C:  D    C    Em x2
 
 ## Pink Floyd
 ### Wish You Were Here
@@ -579,12 +591,6 @@ and their chords for quick reference.
     Am  G   C   F
     Am  G   C  x2
 
-## Stevie Wonder
-### Superstition
-    Standard
-    Eb7
-    Bb7   Cb9b5   Bb7   A9b5
-    Ab9sus4  Bb7
 
 ## Stone Temple Pilots
 ### Creep
