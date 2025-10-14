@@ -586,6 +586,19 @@ and their chords for quick reference.
     Bb7   Cb9b5   Bb7   A9b5
     Ab9sus4  Bb7
 
+## Stone Temple Pilots
+### Creep
+    Intro:
+    Em7  B7   C   C
+    Verse:
+    Em7   C   B7  Em7
+    Pre-Chorus:
+    G   Asus2 Em7
+    G   Asus2 Em7
+    G   Asus2 C   Dsus2
+    Chorus:
+    Em7 D     G   Asus2
+
 ## Taylor Swift
 ### All Too Well
     V/C: C   G   Am  F
