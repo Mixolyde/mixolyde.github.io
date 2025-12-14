@@ -591,6 +591,11 @@ and their chords for quick reference.
     Am  G   C   F
     Am  G   C  x2
 
+## Stephen Dawes
+### Teenage Dream
+    Capo 3
+    Cmaj7 Em G D
+
 
 ## Stone Temple Pilots
 ### Creep
