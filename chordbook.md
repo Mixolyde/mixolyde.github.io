@@ -776,3 +776,20 @@ and their chords for quick reference.
     Bm  A G#-G  Bm  A
     G   Bm   A
     Bm  A    G  Bm  A
+
+## Zach Bryan
+### Something in the Orange
+    [Intro]
+    Em7  G
+    G    Em
+
+    [Verse]
+    Em7       D  G
+    G         D  Em7
+
+    [Chorus/Post-Chorus]
+    Cadd9        G
+    D            Em7
+
+    [End]
+    D            Em7
