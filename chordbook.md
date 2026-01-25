@@ -248,7 +248,9 @@ and their chords for quick reference.
     e|-7\5------5------------5-|-7-----------------------|
     C|-6\4------4------------4-|-6-----------------------|    
 
-
+## Crash Adams
+### New Heart
+    Am x2 Dm x2 G x2 C E
 
 ## Creedence Clearwater Revival
 ### Bad Moon Rising
