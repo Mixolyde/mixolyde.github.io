@@ -74,8 +74,8 @@ and their chords for quick reference.
     Capo 2
     V:  G   D   Csus2 x2
         G   D   Csus2  D (big ending)
-    C:  Csus2  D   G  (G/F#)  Em
-        Csus2  D
+    C:  C   D   G   Em
+        C   D
 
 ### Old Apartment
     Capo 3
