@@ -22,10 +22,10 @@ and their chords for quick reference.
 ## 4 Non-Blondes
 ### What's Up
     Capo 2
-    G  Am  C   G
+    G  Am  C   Gsus2
     
     Standard
-    A  Bm  D   A
+    A  Bm  D   Asus2
     
 ## America
 ### Horse With No Name
