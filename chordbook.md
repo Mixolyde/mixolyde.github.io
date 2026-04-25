@@ -48,7 +48,7 @@ and their chords for quick reference.
     Verse
     C   C   F   C
     Am  G   F   F
-    F   G   C
+    F   G   C   C
     Chorus
     Am  F   Am  G
     Am  G   F   F
