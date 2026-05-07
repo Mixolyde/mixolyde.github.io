@@ -580,7 +580,10 @@ and their chords for quick reference.
 
 ## Sam Smith
 ### Stay With Me
-    Am  F   C x2
+    V: Am7  F     C x3
+       Am7  Gsus4 C
+
+    C: Am7  F     C x2
     
 ## Sara Bareilles
 ### Brave
