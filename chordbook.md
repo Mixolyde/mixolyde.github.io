@@ -163,7 +163,7 @@ and their chords for quick reference.
     E   E   Esus4 E Esus4 E
     B   A   E   E
     
-## Blues Traveller
+## Blues Traveler
 ### Hook
     A   E   F#m7  C#7  D   A   D    E
     5   7   9/12  9    5
