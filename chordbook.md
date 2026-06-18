@@ -346,6 +346,40 @@ and their chords for quick reference.
     Chorus
     Am Fsus2 Cmaj7 Cmaj7    x2
     Am Fsus2 Cmaj7 G   Fsus2
+
+## Fun.
+### Some Nights
+    Intro (Some nights I stay up...)
+    C    F    C
+    F    C    G
+    F    C    F    C
+    F    C    F    G
+
+    Pre-Chorus  (What do I stand for)
+    F    C    F    C
+    Am   G
+
+    Verse/Hook
+    F    C    F    C
+    F    C    G    G
+
+    Bridge
+    F    C    G    G
+    
+### We Are Young
+    Capo 5 (Key F)
+    Verse (Give me a second, I)
+    C    Am   Dm   F G
+
+    Pre-Chorus/Outro (So if by the time)
+    Dm   Em   Am   G    F
+    F    G
+
+    Chorus (Toniiiiiiiight)
+    C    Am   F    Gsus4 G
+
+    Bridge (Carry me home tonight)
+    C    F    C/E    G
     
 ## Gin Blossoms
 ### Found Out About You
@@ -533,6 +567,28 @@ and their chords for quick reference.
     C:  Ab  Bb  Fm  Cm
         Ab  Bb  G7  Cm
     
+## Oasis
+### Wonderwall
+    Capo 2 (Key F#m)
+
+    Intro/Verse
+    Em   G   D   A7sus4 (Uke: 0200)
+
+    Verse ending
+    C    D    A7sus4 A7sus4
+
+    Pre-Chorus
+    C    D    Em    Em
+    C    D    G     D    Em
+    D    A7sus4
+
+    Chorus
+    C    Em   G     Em
+
+    Solo
+    A|-3-2-3--10-7----|
+
+
 ## Passenger
 ### Let Her Go
     Capo 7
