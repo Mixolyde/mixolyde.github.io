@@ -316,6 +316,14 @@ and their chords for quick reference.
     C   G   C   G
     Am  C   G   G
 
+## Fallout Boy
+### Sugar, We're Goin Down
+    V: D   G   Bm  G
+    Pre: F#m G   A   Bm  C   Bm  G x2
+    C: D  x2   G x2
+       Bm x2   G x2
+    Link: D   G   Bm  C   Bm  G
+
 ## Fleetwood Mac
 ### Dreams
     V: F     G
