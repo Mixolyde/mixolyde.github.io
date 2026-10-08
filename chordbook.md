@@ -786,6 +786,18 @@ and their chords for quick reference.
     D   D   A
 
 ## U2
+### Still Haven't Gound What I'm Looking For
+    Verse:
+    C#   C#  F#sus2 C#
+    Chorus:
+    G#   F#sus2 C#  C#
+
+    Capo 1
+    Verse:
+    C    C   Fsus2 C
+    Chorus:
+    G    Fsus2  C  C
+
 ### Sunday Bloody Sunday
     Capo 1
     Verse:  Am  C   F6
@@ -794,10 +806,10 @@ and their chords for quick reference.
             Eb  Dm  C
 
 ### With or Without You
-    D   A   Bm   G
+    D   Asus4 Bm   G
 
     Capo 2
-    C   G   Am   F
+    C   Gsus4 Am   F
 
 ## Unknown/Various
 ### I Love the Mountains 
